@@ -23,7 +23,7 @@ Scientific data analysis focused on pest management for olive groves.
 ### 🎓 Learning Journey & Specialization
 Currently advancing my skills in **Data Science** and **Scientific Computing** to better analyze agricultural and environmental datasets.
 
-* **Certification:** Completed the **Scientific Computing with Python** certification by freeCodeCamp.
+* **Certification:** Completed the **Scientific Computing with Python** certification by freeCodeCamp. [https://www.freecodecamp.org/certification/fcc-75290247-2ef2-478c-bcdd-bef34ff4e382/python-v9]
 * **Current Focus:** Mastering the Data Science stack:
     * **Pandas & NumPy** for complex data manipulation.
     * **Matplotlib & Seaborn** for advanced biological data visualization.
