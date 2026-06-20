@@ -36,12 +36,15 @@ Scientific data analysis focused on pest management for olive groves.
 * **Languages & Web:** Python, R, PHP, SQL (MySQL), JavaScript (jQuery/AJAX), HTML5/CSS3
 * **Visualization:** Matplotlib, Seaborn
 
----
-
-### 🎓 Certifications & Education
-
-* **Kaggle Learn:** Intro to ML, Intermediate ML, Pandas, Data Visualization, Feature Engineering.
+* **MSc in Information Systems** 🎓 – Specialized academic background in data structures, database design, and systems architecture.
+* **BSc & MSc in Agronomy** 🌿 – Deep domain expertise in agricultural sciences, plant pathology, and field data collection.
+* **Kaggle Learn Certifications:**
+  * [Intro to Machine Learning](https://www.kaggle.com/learn/certification/andreaskalog/intro-to-machine-learning) 🤖
+  * [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/andreaskalog/intermediate-machine-learning) 🚀
+  * [Pandas](https://www.kaggle.com/learn/certification/andreaskalog/pandas) 🐼
+  * [Data Visualization](https://www.kaggle.com/learn/certification/andreaskalog/data-visualization) 📊
+  * [Feature Engineering](https://www.kaggle.com/learn/certification/andreaskalog/feature-engineering) 🛠️
 * **freeCodeCamp:** [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc-75290247-2ef2-478c-bcdd-bef34ff4e382/python-v9) Certification.
-* **Academic Background:** Degree in Agronomy (BSc/MSc context).
 
----
+
+* ---
