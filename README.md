@@ -47,4 +47,4 @@ Scientific data analysis focused on pest management for olive groves.
 * **freeCodeCamp:** [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc-75290247-2ef2-478c-bcdd-bef34ff4e382/python-v9) Certification.
 
 
-* ---
+---
