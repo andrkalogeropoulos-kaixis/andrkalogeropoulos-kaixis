@@ -44,7 +44,7 @@ Scientific data analysis focused on pest management for olive groves.
   * [Intermediate Machine Learning](https://www.kaggle.com/learn/certification/andreaskalog/intermediate-machine-learning) 🚀
   * [Data Visualization](https://www.kaggle.com/learn/certification/andreaskalog/data-visualization) 📊
   * [Feature Engineering](https://www.kaggle.com/learn/certification/andreaskalog/feature-engineering) 🛠️
-* **freeCodeCamp:** [Scientific Computing with Python](https://www.freecodecamp.org/certification/fcc-75290247-2ef2-478c-bcdd-bef34ff4e382/python-v9) Certification.
+* **freeCodeCamp:** [Python](https://www.freecodecamp.org/certification/fcc-75290247-2ef2-478c-bcdd-bef34ff4e382/python-v9) Certification.
 
 
 ---
