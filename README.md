@@ -18,7 +18,7 @@ A repository showcasing advanced predictive modeling and feature engineering on 
 * **House Prices Regression:** Achieved a **Global Ranking of 388 / 4,050 (Top 10%)** using custom interaction features (`Quality_x_Area`) and a tuned XGBRegressor.
 * **F1 Pit Stop Prediction:** Solved a highly imbalanced binary classification problem using K-Means Clustering for meta-features and an XGBClassifier with class-weight penalties (0.937 ROC-AUC).
 
-#### 🏛 [RDP Grant Eligibility App](https://github.com/andrkalogeropoulos-kaixis/RDP-Grant-Eligibility-App)
+#### 🏛 [Rural Development Programme (RDP) Score Calculator](https://github.com/andrkalogeropoulos-kaixis/RDP-Grant-Eligibility-App)
 A full-stack web application developed for the **Region of Attica** to automate complex bureaucracy.
 * **Impact:** Helped hundreds of local farmers automatically calculate their eligibility for EU grants.
 * **Tech Stack:** Procedural PHP, MySQL (Relational Design), AJAX/jQuery.
